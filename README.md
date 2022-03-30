@@ -20,7 +20,7 @@ RSE@SU has the distinction of being **the first dedicated RSE Group in Africa** 
 <p>
 <blockquote>
    
-<p>RSEs provide support to researchers (and external clients) with services ranging from <b><a href="https://k-c-martin.github.io/test-page-2/#consulting">training</a></b>, <b><a href="https://k-c-martin.github.io/test-page-2/#consulting">consultancy</a></b>, and <b><a href="https://k-c-martin.github.io/test-page-2/#consulting">custom code development (or rehabilitation)</a></b>.</p>
+<p>RSEs provide support to researchers (and external clients) with services ranging from <b><a href="https://rse-at-su.github.io/RSE-at-SU/#training">training</a></b>, <b><a href="https://rse-at-su.github.io/RSE-at-SU/#consulting">consultancy</a></b>, and <b><a href="https://rse-at-su.github.io/RSE-at-SU/#coding">custom code development (or rehabilitation)</a></b>.</p>
 
 <p>RSEs assist researchers to <b>'tidy up' code in preparation for publication</b> (with code-sharing increasingly important to credibility), and help researchers establish good practices (teaching and supporting adoption of <b>collaborative version control, sustainable code development, and appropriate licensing</b>).</p>
 
