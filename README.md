@@ -76,7 +76,7 @@ Dr Martin is a [Software Sustainability Institute (SSI) International Fellow](ht
    <br>
 </blockquote>
 
-RSE@SU capacity and capability to **provide software engineering support** is extensible given the 'Affiliated RSE@SU Member' (ARM) model the group employs, whereby Core Staff collaborate with Members (Academic and Technical) depending on the expertise required.
+RSE@SU capacity and capability to **provide software engineering support** is extensible given the 'Affiliated RSE@SU Member' (ARM) model the group employs, whereby Core Staff collaborate with Affiliated Members (Academic and Technical) depending on the expertise required.
 
 In addition to conventional software engineering, RSE@SU provides access to **special expertise in hardware (e.g. wireless sensors and automation)** via collaboration with Professor Thinus Booysen (Chair of IoT at Stellenbosch University).
 
@@ -132,7 +132,7 @@ The RSE@SU Core Team are responsible for the overall operations of the Group, in
 </p>
 </details>
 
-Embedded RSEs (including postdoctoral researchers engaged in RSE activities) are based within a research group, and form a part of RSE@SU's extended **Community of Practice**.
+Embedded RSEs (including postdoctoral researchers engaged in RSE activities) are based within a research group, and form part of RSE@SU's extended **Community of Practice**.
 
 <hr>
 
