@@ -34,15 +34,47 @@ RSE@SU has the distinction of being **the first dedicated RSE Group in Africa** 
 
 ## How can RSE@SU help you?
 
-### Training
+_RSE@SU exists to provide Stellenbosch University staff and students with coding-related training and consultancy, and software engineering support._
+<br>
+<br>
 
-<a href="https://carpentries.org/">**The Carpentries**</a> (Software / Data / Library Carpentry) is a non-profit dedicated to volunteer-driven development and dissemination of coding-related lessons to researchers (with certified Instructors); **RSE@SU staff are able to provide Carpentries workshops to Stellenbosch University staff and students**, and can provide extended workshops to promote use of the university's High Performance Computing (HPC) facilities.
+### Training
+<blockquote>
+   <br>
+   Do you need a gentle introduction to the fundamentals of research computing (e.g. getting started with programming using R or Python, version control with Git, command-line control with the Unix shell)?<br>
+   <br>
+   Do you have some of the basics, but are now ready to cement best practices, or transition to more sophisticated research computing environments (e.g. cloud, or HPC)?
+   <br>
+   <br>
+</blockquote>
+
+<a href="https://carpentries.org/">**The Carpentries**</a> (Software / Data / Library Carpentry) is a non-profit organization dedicated to the development and dissemination of coding-related lessons for researchers (with workshops run by certified Instructors); **RSE@SU staff are able to provide Carpentries workshops to Stellenbosch University staff and students**, and can provide extended workshops to promote use of the university's High Performance Computing (HPC) facilities.
+<br>
+<br>
 
 ### Consulting
+<blockquote>
+   <br>
+   Do you need to bounce some ideas off a coding-savvy friend... to get a sense of 'what is possible' if software engineering skills were applied in solving your research problem?<br>
+   <br>
+   Do you need to satisfy a funder who wants to see evidence in your grant application that you have considered the RSE skills required to conduct the data-/computationally-intensive components of the project to a high standard?
+   <br>
+   <br>
+</blockquote>
 
-Dr Martin is a [Software Sustainability Institute (SSI) International Fellow](https://www.software.ac.uk/about/fellows/kim-martin), and has been awarded SSI funding to conduct a pilot program whereby 8-12 Stellenbosch University researchers will be provided with targeted consultations from UK-based RSEs, with the aim of developing RSE-related components to potentially include in existing or future grant applications (note that consultations will not form a 'full grant writing assistance' program). **This program will supplement consultations ordinarily provided by RSE@SU staff.**
+Dr Martin is a [Software Sustainability Institute (SSI) International Fellow](https://www.software.ac.uk/about/fellows/kim-martin), and has been awarded SSI funding to conduct a pilot program whereby 8-12 Stellenbosch University researchers will be provided with targeted consultations from UK-based RSEs, with the aim of developing RSE-related components for future grant applications (note that consultations will not form a 'full grant writing assistance' program). **This program will supplement consultations ordinarily provided by RSE@SU staff.**
+<br>
+<br>
 
 ### Coding
+<blockquote>
+   <br>
+   Do you need help setting up a reliable data capture/analysis pipeline that you will be able to confidently run in the future?<br>
+   <br>
+   Do you need someone with software engineering skills (and an understanding of the research environment) to work collaboratively with you in developing a custom software solution to advance your research?
+   <br>
+   <br>
+</blockquote>
 
 RSE@SU capacity and capability to **provide software engineering support** is extensible given the 'Affiliated RSE@SU Member' (ARM) model the group employs, whereby Core Staff collaborate with Members (Academic and Technical) depending on the expertise required.
 
@@ -54,6 +86,11 @@ Please contact <a href="mailto:kcmartin@sun.ac.za">Dr Martin</a> with enquiries.
 <br>
 
 ## Who is RSE@SU?
+
+_RSE@SU consists of Core Staff, Affiliated Members (Academic and Technical), and an extended Community of Practice which includes Embedded RSEs throughout Stellenbosch University._
+<br>
+<br>
+<hr>
 
 <details><summary><b>The Core Team</b></summary>
 <p>
