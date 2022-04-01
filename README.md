@@ -1,4 +1,4 @@
-Welcome to **<font size="+2">RSE@SU</font>** - the Research Software Engineering (RSE) Group at <a href="https://www.sun.ac.za/english">Stellenbosch University</a>.
+Welcome to **<font size="+2">RSE@SU</font>** - the Research Software Engineering (RSE) Group at <a href="http://www.sun.ac.za/english/data-science-and-computational-thinking/Pages/Reseach-Software-Engineering.aspx">Stellenbosch University</a>.
 
 RSE@SU has the distinction of being **the first dedicated RSE Group in Africa** (offering Research Software Engineering services to researchers across all Faculties and Schools within the university).<br>
 <br>
