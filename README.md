@@ -1,6 +1,6 @@
-Welcome to **<font size="+2">RSE@SU</font>** - the Research Software Engineering (RSE) Group at <a href="http://www.sun.ac.za/english/data-science-and-computational-thinking/Pages/Reseach-Software-Engineering.aspx">Stellenbosch University</a>.
+Welcome to **<font size="+2">RSE@SUN</font>** - the Research Software Engineering (RSE) Group at <a href="http://www.sun.ac.za/english/data-science-and-computational-thinking/Pages/Reseach-Software-Engineering.aspx">Stellenbosch University</a>.
 
-RSE@SU has the distinction of being **the first dedicated RSE Group in Africa** (offering Research Software Engineering services to researchers across all Faculties and Schools within the university).<br>
+RSE@SUN has the distinction of being **the first dedicated RSE Group in Africa** (offering Research Software Engineering services to researchers across all Faculties and Schools within the university).<br>
 <br>
 
 <details><summary>What is an RSE?</summary>
@@ -32,9 +32,9 @@ RSE@SU has the distinction of being **the first dedicated RSE Group in Africa** 
 </p>
 </details><br>
 
-## How can RSE@SU help you?
+## How can RSE@SUN help you?
 
-_RSE@SU exists to provide Stellenbosch University staff and students with coding-related training and consultancy, and software engineering support._
+_RSE@SUN exists to provide Stellenbosch University staff and students with coding-related training and consultancy, and software engineering support._
 <br>
 <br>
 
@@ -48,7 +48,7 @@ _RSE@SU exists to provide Stellenbosch University staff and students with coding
    <br>
 </blockquote>
 
-<a href="https://carpentries.org/">**The Carpentries**</a> (Software / Data / Library Carpentry) is a non-profit organization dedicated to the development and dissemination of coding-related lessons for researchers (with workshops run by certified Instructors); **RSE@SU staff are able to provide Carpentries workshops to Stellenbosch University staff and students**, and can provide extended workshops to promote use of the university's High Performance Computing (HPC) facilities.
+<a href="https://carpentries.org/">**The Carpentries**</a> (Software / Data / Library Carpentry) is a non-profit organization dedicated to the development and dissemination of coding-related lessons for researchers (with workshops run by certified Instructors); **RSE@SUN staff are able to provide Carpentries workshops to Stellenbosch University staff and students**, and can provide extended workshops to promote use of the university's High Performance Computing (HPC) facilities.
 <br>
 <br>
 
@@ -62,7 +62,7 @@ _RSE@SU exists to provide Stellenbosch University staff and students with coding
    <br>
 </blockquote>
 
-Dr Martin is a [Software Sustainability Institute (SSI) International Fellow](https://www.software.ac.uk/about/fellows/kim-martin), and has been awarded SSI funding to conduct a pilot program whereby 8-12 Stellenbosch University researchers will be provided with targeted consultations from UK-based RSEs, with the aim of developing RSE-related components for future grant applications (note that consultations will not form a 'full grant writing assistance' program). **This program will supplement consultations ordinarily provided by RSE@SU staff.**
+Dr Martin is a [Software Sustainability Institute (SSI) International Fellow](https://www.software.ac.uk/about/fellows/kim-martin), and has been awarded SSI funding to conduct a pilot program whereby 8-12 Stellenbosch University researchers will be provided with targeted consultations from UK-based RSEs, with the aim of developing RSE-related components for future grant applications (note that consultations will not form a 'full grant writing assistance' program). **This program will supplement consultations ordinarily provided by RSE@SUN staff.**
 <br>
 <br>
 
@@ -76,18 +76,18 @@ Dr Martin is a [Software Sustainability Institute (SSI) International Fellow](ht
    <br>
 </blockquote>
 
-RSE@SU capacity and capability to **provide software engineering support** is extensible given the 'Affiliated RSE@SU Member' (ARM) model the group employs, whereby Core Staff collaborate with Affiliated Members (Academic and Technical) depending on the expertise required.
+RSE@SUN capacity and capability to **provide software engineering support** is extensible given the 'Affiliated RSE@SUN Member' (ARM) model the group employs, whereby Core Staff collaborate with Affiliated Members (Academic and Technical) depending on the expertise required.
 
-In addition to conventional software engineering, RSE@SU provides access to **special expertise in hardware (e.g. wireless sensors and automation)** via collaboration with Professor Thinus Booysen (Chair of IoT at Stellenbosch University).
+In addition to conventional software engineering, RSE@SUN provides access to **special expertise in hardware (e.g. wireless sensors and automation)** via collaboration with Professor Thinus Booysen (Chair of IoT at Stellenbosch University).
 
 <br>
 Please contact <a href="mailto:kcmartin@sun.ac.za">Dr Martin</a> with enquiries.<br>
 
 <br>
 
-## Who is RSE@SU?
+## Who is RSE@SUN?
 
-_RSE@SU consists of Core Staff, Affiliated Members (Academic and Technical), and an extended Community of Practice which includes Embedded RSEs throughout Stellenbosch University._
+_RSE@SUN consists of Core Staff, Affiliated Members (Academic and Technical), and an extended Community of Practice which includes Embedded RSEs throughout Stellenbosch University._
 <br>
 <br>
 <hr>
@@ -109,7 +109,7 @@ _RSE@SU consists of Core Staff, Affiliated Members (Academic and Technical), and
   </p>
 </details>
 
-The RSE@SU Core Team are responsible for the overall operations of the Group, including providing training activities and consultations, and **coordinating research software engineering projects in collaboration with Affiliated RSE@SU Members (ARM)**.
+The RSE@SUN Core Team are responsible for the overall operations of the Group, including providing training activities and consultations, and **coordinating research software engineering projects in collaboration with Affiliated RSE@SUN Members (ARM)**.
 
 <hr>
  
@@ -132,7 +132,7 @@ The RSE@SU Core Team are responsible for the overall operations of the Group, in
 </p>
 </details>
 
-Embedded RSEs (including postdoctoral researchers engaged in RSE activities) are based within a research group, and form part of RSE@SU's extended **Community of Practice**.
+Embedded RSEs (including postdoctoral researchers engaged in RSE activities) are based within a research group, and form part of RSE@SUN's extended **Community of Practice**.
 
 <hr>
 
@@ -168,7 +168,7 @@ Embedded RSEs (including postdoctoral researchers engaged in RSE activities) are
 </p>
 </details>
 
-The Academic ARM (Affiliated RSE@SU Members) are established **Stellenbosch University researchers** who provide strategic and technical input into RSE@SU projects that fall within their areas of expertise.
+The Academic ARM (Affiliated RSE@SUN Members) are established **Stellenbosch University researchers** who provide strategic and technical input into RSE@SUN projects that fall within their areas of expertise.
 
 <hr>
 
@@ -183,19 +183,19 @@ The Academic ARM (Affiliated RSE@SU Members) are established **Stellenbosch Univ
 </p>
 </details>
 
-The Technical ARM (Affiliated RSE@SU Members) are established **Stellenbosch University technical and support staff** who provide input into RSE@SU activities relevant to their areas of expertise.
+The Technical ARM (Affiliated RSE@SUN Members) are established **Stellenbosch University technical and support staff** who provide input into RSE@SUN activities relevant to their areas of expertise.
 
 <hr>
    
 #### Internal Partners
 
-RSE@SU benefits from the support of the <em>AgroInformatics Initiative</em> at Stellenbosch University, in partnership with **Dr Jan Greyling**.
+RSE@SUN benefits from the support of the <em>AgroInformatics Initiative</em> at Stellenbosch University, in partnership with **Dr Jan Greyling**.
 
 <hr>
 
 #### External Partners
 
-RSE@SU is open to collaborations and other engagements with academic and non-academic partners outside Stellenbosch University - please contact Dr Martin with enquiries: <a href="mailto:kcmartin@sun.ac.za">kcmartin@sun.ac.za</a>
+RSE@SUN is open to collaborations and other engagements with academic and non-academic partners outside Stellenbosch University - please contact Dr Martin with enquiries: <a href="mailto:kcmartin@sun.ac.za">kcmartin@sun.ac.za</a>
 
 <hr>
 
