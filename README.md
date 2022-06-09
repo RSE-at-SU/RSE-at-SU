@@ -117,17 +117,21 @@ The RSE@SUN Core Team are responsible for the overall operations of the Group, i
 <p>
 <blockquote>
 
-   <p><b>DR VITALIS LAGAT</b><br> 
-   <i>Postdoctoral Fellow (joint), RSE</i><br>  
-   EucXylo Research Group<br>  
-   Department of Forestry and Wood Science, Faculty of Agriscience, with<br>  
-   Mathematical and Theoretical Biosciences Group<br>  
-   Department of Mathematical Sciences, Faculty of Science</p>  
+   <p>DR VITALIS LAGAT<br> 
+   Postdoctoral Fellow (joint), RSE<br>  
+   EucXylo Research Group, Department of Forestry and Wood Science, Faculty of Agriscience, with<br>  
+   Mathematical and Theoretical Biosciences Group, Department of Mathematical Sciences, Faculty of Science</p>  
    
-   <p><b>DR MICHAEL RITCHIE</b><br>   
-   <i>Postdoctoral Researcher, RSE</i><br>    
-   Internet of Things (IoT) Group<br>    
-   Faculty of Engineering</p> 
+   <p>DR MICHAEL RITCHIE<br>   
+   Postdoctoral Researcher, RSE<br>    
+   Internet of Things (IoT) Group, Faculty of Engineering</p> 
+   
+   <p>DR TOMASZ J. SANKO (PhD, Eng.)<br>
+   Postdoctoral Fellow (joint), RSE<br>
+   Centre for Epidemic Response and Innovation (CERI)<br>
+   School of Data Science and Computational Thinking, with<br>
+   Division of Molecular Biology and Human Genetics (MBHG), Faculty of Medicine and Health Sciences</p>
+   
 </blockquote> 
 </p>
 </details>
@@ -140,31 +144,30 @@ Embedded RSEs (including postdoctoral researchers engaged in RSE activities) are
 <p>
 <blockquote>
    
-   <p><b>PROF THINUS BOOYSEN</b><br>
-   <i>Chair in the Internet of Things (IoT)</i><br> 
-   Internet of Things (IoT) Group<br>
-   Faculty of Engineering</p>
+   <p>PROF THINUS BOOYSEN<br>
+   Chair in the Internet of Things (IoT)<br> 
+   Internet of Things (IoT) Group, Faculty of Engineering</p>
    
-   <p><b>DR JUAN KLOPPER</b><br>
-   <i>Research Fellow, Educator</i><br>
+   <p>DR JUAN KLOPPER<br>
+   Research Fellow, Educator<br>
    School for Data Science and Computational Thinking<br>  
-      <i>Senior Researcher</i><br>  
+   Senior Researcher<br>  
    Division of Epidemiology and Biostatistics, Department of Global Health, Faculty of Medicine and Health Sciences</p>  
 
-   <p><b>PROF HUGH PATTERTON</b><br>  
-   <i>Director, Group Leader (epigenomics, bioinformatics)</i><br> 
+   <p>PROF HUGH PATTERTON<br>  
+   Director, Group Leader (epigenomics, bioinformatics)<br> 
    Center for Bioinformatics and Computational Biology (CBCB), Faculty of Science</p>  
 
-   <p><b>PROF BRINK VAN DER MERWE</b><br>  
-   <i>Head of Division, Group Leader (algorithmics)</i><br>  
+   <p>PROF BRINK VAN DER MERWE<br>  
+   Head of Division, Group Leader (algorithmics)<br>  
    Division of Computer Science, Department of Mathematical Sciences, Faculty of Science</p>  
 
-   <p><b>PROF BRUCE WATSON</b><br> 
-   <i>Joint Professor (cybersecurity, cryptography, AI, ML, program correctness, programming languages)</i><br>  
+   <p>PROF BRUCE WATSON<br> 
+   Joint Professor (cybersecurity, cryptography, AI, ML, program correctness, programming languages)<br>  
    School of Data Science and Computational Thinking, with<br>  
    Department of Information Science, Faculty of Arts and Social Sciences</p>  
 
-   </blockquote>
+</blockquote>
 </p>
 </details>
 
@@ -175,11 +178,12 @@ The Academic ARM (Affiliated RSE@SUN Members) are established **Stellenbosch Uni
 <details><summary><b>Technical ARM</b></summary>
 <p>
 <blockquote>
-   <p><b>MR GERHARD WAGENINGEN</b><br> 
-   <i>Senior System Administrator</i><br>  
-   High Performance Computing (HPC)<br>  
-   IT Infrastructure</p>  
-   </blockquote>
+   
+   <p>MR GERHARD WAGENINGEN<br> 
+   Senior System Administrator<br>  
+   High Performance Computing (HPC), Stellenbosch University IT Infrastructure</p> 
+   
+</blockquote>
 </p>
 </details>
 
